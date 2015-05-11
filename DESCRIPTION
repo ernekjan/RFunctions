@@ -1,0 +1,8 @@
+Package: newPackage
+Version: 0.1
+Title: Trying R packages for OpenCPU
+Description: Just a try to make OpenCPU app and be able to update installed package on a public server.
+Author: Jana Ernekerova 
+Maintainer: Jana Ernekerova <jana@erneker.cz>
+License: GPL-2
+LazyData: true
